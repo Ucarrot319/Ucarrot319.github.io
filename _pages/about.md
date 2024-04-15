@@ -7,16 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-Bingrui Hu received the bachelors degree in detection, guidance, and control technology from Beihang University, Beijing, China, in 2022. He is currently working toward the Ph.D. degree in precision instruments and machinery with the School of Instrumentation and Optoelectronic, Beihang University, Beijing, China. His research interests include computer vision and  pattern recognition.
+I'm a PhD student from [School of Instrumentation and Optoelectronic](https://yqgdxy.buaa.edu.cn/), [Beihang University](https://www.buaa.edu.cn/). My research interest includes computer vision, visual measurement, domain adaptive, and object segmentation.
 
-Publications
-======
+I am very fortunate to be advised by [Prof. Guangjun Zhang](https://www.buaa.edu.cn/info/1544/19436.htm),Academician of Chinese Academy of Engineering, of Opto-mechatronics Lab from [School of Instrumentation and Optoelectronic](https://yqgdxy.buaa.edu.cn/), Beihang University.
+
+You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](bingruihu@buaa.edu.cn) / [Github](https://github.com/Ucarrot319) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/Ucarrot?spm=1000.2115.3001.5343)
+
 
 Research
 ======
 
-For more info
-------
+- Computer Vision
+- Visual Measurement
+- Image Correction
+- Domain Adaptive 
 
-News
-------
